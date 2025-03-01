@@ -31,7 +31,3 @@ Este repositório contém exercícios e projetos desenvolvidos durante o curso d
 ## Contribuições
 
 Contribuições são bem-vindas! Caso queira colaborar, sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
